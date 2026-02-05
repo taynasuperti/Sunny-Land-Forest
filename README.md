@@ -1,7 +1,7 @@
-# Sunny Land Florest – Jogo 2D em Pixel Art
+# Sunny Land Forest – Jogo 2D em Pixel Art
 **Unity 6 · C# · Game Development**
 
-O Sunny Land Florest é um jogo 2D em pixel art desenvolvido na Unity 6, criado com o objetivo de estudar e consolidar os fundamentos do desenvolvimento de jogos utilizando a engine.
+O Sunny Land Forest é um jogo 2D em pixel art desenvolvido na Unity 6, criado com o objetivo de estudar e consolidar os fundamentos do desenvolvimento de jogos utilizando a engine.
 O projeto foi construído do zero, passando por todas as etapas essenciais de criação, organização e funcionamento de um jogo 2D, desde a importação e manipulação de assets até a implementação da lógica e mecânicas em C#.
 
 O foco principal do projeto foi compreender o funcionamento da Unity, sua estrutura baseada em componentes, organização de cenas, sistema de animações, colisões, física e interação do jogador com o ambiente.
